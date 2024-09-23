@@ -8,14 +8,6 @@
 - Biblioteca `scapy` (puede instalarse con `pip install scapy`)
 - Biblioteca `termcolor` (puede instalarse con `pip install termcolor`)
 
-## Instalación
-
-1. Clona o descarga este repositorio.
-2. Instala las dependencias necesarias:
-    ```bash
-    pip install scapy termcolor
-    ```
-
 ## Uso
 
 1. Asegúrate de ejecutar el programa con permisos de administrador para poder capturar tráfico de red.
