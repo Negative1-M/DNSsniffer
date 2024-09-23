@@ -13,7 +13,7 @@
 1. Asegúrate de ejecutar el programa con permisos de administrador para poder capturar tráfico de red.
 2. Inicia el programa en la interfaz de red deseada, por ejemplo, `eth0`:
     ```bash
-    sudo python3 dns_sniffer.py
+    sudo python3 DNSsniffer.py
     ```
 
 3. El programa comenzará a capturar y analizar paquetes DNS que pasen por la interfaz de red especificada.
